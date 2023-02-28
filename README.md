@@ -1,6 +1,6 @@
 # reactjs--Pagination
 
-#App.js
+//App.js
 
 import { useEffect, useState } from "react";
 import Pagination from "./Pagination";
@@ -64,7 +64,7 @@ export default function App() {
     </div>
   );
 }
-#Pagination.js
+//Pagination.js
 
 import React from "react";
 
